@@ -1,4 +1,4 @@
-수정
+수정 + 추가 수정
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 강진규
 - 리뷰어 : 김성훈
